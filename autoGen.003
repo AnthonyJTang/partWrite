@@ -1,0 +1,5 @@
+\version "2.18.2"
+\relative c'
+{ 
+ | c a b c  | f a a e  | b a c c  | a d a c  | d b f e  | a b a c  | e c b c  | b b e b  || 
+}
